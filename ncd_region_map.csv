@@ -1,0 +1,203 @@
+country,super_region
+Albania,Central and Eastern Europe
+Bosnia and Herzegovina,Central and Eastern Europe
+Bulgaria,Central and Eastern Europe
+Croatia,Central and Eastern Europe
+Czech Republic,Central and Eastern Europe
+Hungary,Central and Eastern Europe
+Montenegro,Central and Eastern Europe
+Macedonia (TFYR),Central and Eastern Europe
+Poland,Central and Eastern Europe
+Romania,Central and Eastern Europe
+Serbia,Central and Eastern Europe
+Slovakia,Central and Eastern Europe
+Slovenia,Central and Eastern Europe
+Belarus,Central and Eastern Europe
+Estonia,Central and Eastern Europe
+Latvia,Central and Eastern Europe
+Lithuania,Central and Eastern Europe
+Moldova,Central and Eastern Europe
+Russian Federation,Central and Eastern Europe
+Ukraine,Central and Eastern Europe
+Armenia,"Central Asia, Middle East, and North Africa"
+Azerbaijan,"Central Asia, Middle East, and North Africa"
+Georgia,"Central Asia, Middle East, and North Africa"
+Kazakhstan,"Central Asia, Middle East, and North Africa"
+Kyrgyzstan,"Central Asia, Middle East, and North Africa"
+Mongolia,"Central Asia, Middle East, and North Africa"
+Tajikistan,"Central Asia, Middle East, and North Africa"
+Turkmenistan,"Central Asia, Middle East, and North Africa"
+Uzbekistan,"Central Asia, Middle East, and North Africa"
+Algeria,"Central Asia, Middle East, and North Africa"
+Bahrain,"Central Asia, Middle East, and North Africa"
+Egypt,"Central Asia, Middle East, and North Africa"
+Iran,"Central Asia, Middle East, and North Africa"
+Iraq,"Central Asia, Middle East, and North Africa"
+Jordan,"Central Asia, Middle East, and North Africa"
+Kuwait,"Central Asia, Middle East, and North Africa"
+Lebanon,"Central Asia, Middle East, and North Africa"
+Libya,"Central Asia, Middle East, and North Africa"
+Morocco,"Central Asia, Middle East, and North Africa"
+Oman,"Central Asia, Middle East, and North Africa"
+Qatar,"Central Asia, Middle East, and North Africa"
+Saudi Arabia,"Central Asia, Middle East, and North Africa"
+Occupied Palestinian Territory,"Central Asia, Middle East, and North Africa"
+Syrian Arab Republic,"Central Asia, Middle East, and North Africa"
+Tunisia,"Central Asia, Middle East, and North Africa"
+Turkey,"Central Asia, Middle East, and North Africa"
+United Arab Emirates,"Central Asia, Middle East, and North Africa"
+Yemen,"Central Asia, Middle East, and North Africa"
+China (Hong Kong SAR),East and Southeast Asia
+China,East and Southeast Asia
+North Korea,East and Southeast Asia
+Taiwan,East and Southeast Asia
+Japan,High-income Asia Pacific
+Brunei Darussalam,East and Southeast Asia  
+Cambodia,East and Southeast Asia 
+Indonesia,East and Southeast Asia 
+Lao PDR,East and Southeast Asia 
+Malaysia,East and Southeast Asia  
+Maldives,East and Southeast Asia  
+Myanmar,East and Southeast Asia  
+Philippines,East and Southeast Asia 
+Thailand,East and Southeast Asia  
+Timor-Leste,East and Southeast Asia  
+Viet Nam,East and Southeast Asia 
+Singapore,High-income Asia Pacific
+South Korea,High-income Asia Pacific
+Australia,High-income Western
+Canada,High-income Western
+Ireland,High-income Western
+New Zealand,High-income Western
+United Kingdom,High-income Western
+United States of America,High-income Western
+Austria,High-income Western
+Belgium,High-income Western
+Denmark,High-income Western
+Finland,High-income Western
+Germany,High-income Western
+Greenland,High-income Western
+Iceland,High-income Western
+Luxembourg,High-income Western
+Netherlands,High-income Western
+Norway,High-income Western
+Sweden,High-income Western
+Switzerland,High-income Western
+Andorra,High-income Western
+Cyprus,High-income Western
+France,High-income Western
+Greece,High-income Western
+Israel,High-income Western
+Italy,High-income Western
+Malta,High-income Western
+Portugal,High-income Western
+Spain,High-income Western
+Bolivia,Latin America and Caribbean
+Ecuador,Latin America and Caribbean
+Peru,Latin America and Caribbean
+Antigua and Barbuda,Latin America and Caribbean
+Bahamas,Latin America and Caribbean
+Barbados,Latin America and Caribbean
+Belize,Latin America and Caribbean
+Bermuda,Latin America and Caribbean
+Cuba,Latin America and Caribbean
+Dominica,Latin America and Caribbean
+Dominican Republic,Latin America and Caribbean
+Grenada,Latin America and Caribbean
+Guyana,Latin America and Caribbean
+Haiti,Latin America and Caribbean
+Jamaica,Latin America and Caribbean
+Puerto Rico,Latin America and Caribbean
+Saint Kitts and Nevis,Latin America and Caribbean
+Saint Lucia,Latin America and Caribbean
+Saint Vincent and the Grenadines,Latin America and Caribbean
+Suriname,Latin America and Caribbean
+Trinidad and Tobago,Latin America and Caribbean
+Colombia,Latin America and Caribbean
+Costa Rica,Latin America and Caribbean
+El Salvador,Latin America and Caribbean
+Guatemala,Latin America and Caribbean
+Honduras,Latin America and Caribbean 
+Mexico,Latin America and Caribbean
+Nicaragua,Latin America and Caribbean
+Panama,Latin America and Caribbean
+Venezuela,Latin America and Caribbean
+Argentina,Latin America and Caribbean
+Brazil,Latin America and Caribbean
+Chile,Latin America and Caribbean
+Paraguay,Latin America and Caribbean
+Uruguay,Latin America and Caribbean
+Fiji,Oceania
+Papua New Guinea,Oceania
+Solomon Islands,Oceania
+Vanuatu,Oceania
+American Samoa,Oceania
+Cook Islands,Oceania
+French Polynesia,Oceania
+Kiribati,Oceania
+Marshall Islands,Oceania
+Micronesia (Federated States of),Oceania
+Nauru,Oceania
+Niue,Oceania
+Palau,Oceania
+Samoa,Oceania
+Tokelau,Oceania
+Tonga,Oceania
+Tuvalu,Oceania
+Afghanistan,South Asia
+Bangladesh,South Asia
+Bhutan,South Asia
+India,South Asia
+Nepal,South Asia
+Pakistan,South Asia
+Sri Lanka,South Asia
+Angola,Sub-Saharan Africa
+Central African Republic,Sub-Saharan Africa
+Congo,Sub-Saharan Africa
+DR Congo,Sub-Saharan Africa
+Equatorial Guinea,Sub-Saharan Africa
+Gabon,Sub-Saharan Africa
+Burundi,Sub-Saharan Africa
+Comoros,Sub-Saharan Africa
+Djibouti,Sub-Saharan Africa
+Eritrea,Sub-Saharan Africa
+Ethiopia,Sub-Saharan Africa
+Kenya,Sub-Saharan Africa
+Madagascar,Sub-Saharan Africa
+Malawi,Sub-Saharan Africa
+Mauritius,Sub-Saharan Africa
+Mozambique,Sub-Saharan Africa
+Rwanda,Sub-Saharan Africa
+Seychelles,Sub-Saharan Africa
+Somalia,Sub-Saharan Africa
+Sudan,Sub-Saharan Africa
+Tanzania,Sub-Saharan Africa
+Uganda,Sub-Saharan Africa
+Zambia,Sub-Saharan Africa
+Botswana,Sub-Saharan Africa
+Eswatini,Sub-Saharan Africa
+Lesotho,Sub-Saharan Africa
+Namibia,Sub-Saharan Africa
+South Africa,Sub-Saharan Africa
+Swaziland,Sub-Saharan Africa
+Zimbabwe,Sub-Saharan Africa
+Benin,Sub-Saharan Africa
+Burkina Faso,Sub-Saharan Africa
+Cabo Verde,Sub-Saharan Africa
+Cameroon,Sub-Saharan Africa
+Chad,Sub-Saharan Africa
+Cote d'Ivoire,Sub-Saharan Africa
+Gambia,Sub-Saharan Africa
+Ghana,Sub-Saharan Africa
+Guinea,Sub-Saharan Africa
+Guinea Bissau,Sub-Saharan Africa
+Liberia,Sub-Saharan Africa
+Mali,Sub-Saharan Africa
+Mauritania,Sub-Saharan Africa
+Niger,Sub-Saharan Africa
+Nigeria,Sub-Saharan Africa
+Sao Tome and Principe,Sub-Saharan Africa
+Senegal,Sub-Saharan Africa
+Sierra Leone,Sub-Saharan Africa
+Togo,Sub-Saharan Africa
+
